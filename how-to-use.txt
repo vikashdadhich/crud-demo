@@ -1,0 +1,11 @@
+1) Create Mysql database 
+ database name- test_2
+ user- root
+ password-root
+ 
+ Ypu can chnage the User and password in application.properties and Pom.xml flyway plugin
+ 
+2) Run the application with below command
+     mvn:spring-boot run
+	 
+  
